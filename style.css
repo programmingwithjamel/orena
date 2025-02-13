@@ -45,11 +45,15 @@ main {
     font-size: 1.5rem;
     font-weight: 700;
     font-style: italic;
-    color: #ff7700;
+    color: bisque;
 }
 
 video {
   padding-top: 10em;
   width: 100%;
   margin-bottom: 5em;
+}
+
+span {
+    color: #ff7700;
 }
