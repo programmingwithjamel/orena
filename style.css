@@ -41,65 +41,15 @@ main {
 
 #vid-main .main-p {
     padding: .5em;
-    padding-top: 10em;
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     font-weight: 700;
     font-style: italic;
-}
-#vid-main p {
-    font-weight: 700;
-    padding: .5em;
-    text-align: center;
+    color: #ff7700;
 }
 
 video {
+  padding-top: 10em;
   width: 100%;
-}
-
-button {
-    background-color: #e07a5f;
-    padding : 1.2em 5em;
-    border: none;
-    border-radius: .7em;
-    margin-bottom: 4em;
-}
-
-button a {
-    color: white;
-    text-decoration: none;
-}
-
-/* card section */
-
-#card-body {
-    background-image: url('v-card.jpg');
-    background-size: contain;
-    background-position: top left;
-    font-family: "Roboto", serif;
-    font-optical-sizing: auto;
-    font-size: medium;
-}
-
-#v-card {
-    
-    background-image: url('v-card-outside.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-article {
-    margin-top: 17em;
-    padding: 1em;
-    border: 2px solid #e07a5f;
-    
-}
-
-article p {
-    font-size: 1.2rem;
-    font-weight: 700;
-}
-
-audio {
-    width: 100%;
+  margin-bottom: 5em;
 }
